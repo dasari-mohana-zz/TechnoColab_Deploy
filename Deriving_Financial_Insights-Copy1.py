@@ -17,7 +17,6 @@ import pandas as pd #data wrangling
 import matplotlib.pyplot as plt #plotting package
 
 #Next line helps with rendering plots
-get_ipython().run_line_magic('matplotlib', 'inline')
 import matplotlib as mpl #add'l plotting functionality
 mpl.rcParams['figure.dpi'] = 400 #high res figures
 import graphviz #to visualize decision trees
