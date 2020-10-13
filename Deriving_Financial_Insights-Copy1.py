@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt #plotting package
 #Next line helps with rendering plots
 import matplotlib as mpl #add'l plotting functionality
 mpl.rcParams['figure.dpi'] = 400 #high res figures
-import graphviz #to visualize decision trees
+
 
 
 # ##### Cleaning the Dataset
