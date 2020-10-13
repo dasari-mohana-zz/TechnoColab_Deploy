@@ -1,1 +1,1 @@
- web: sh setup.sh && streamlit run Deriving_Financial_Insights.ipynb
+ web: sh setup.sh && streamlit run Deriving_Financial_Insights-Copy1.py
