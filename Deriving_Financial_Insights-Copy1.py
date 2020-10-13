@@ -3,10 +3,7 @@
 
 # **Your challenge can be found toward the end of this notebook. The code below will be needed in order to begin the challenge. Read through and execute all necessary portions of this code to complete the tasks for this challenge.**
 
-# In[1]:
-
-
-get_ipython().run_line_magic('autosave', '10')
+# In[1]:import numpy as np
 
 
 # ##### Import the necessary packages
