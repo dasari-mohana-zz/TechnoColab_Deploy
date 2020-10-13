@@ -3,7 +3,7 @@
 
 # **Your challenge can be found toward the end of this notebook. The code below will be needed in order to begin the challenge. Read through and execute all necessary portions of this code to complete the tasks for this challenge.**
 
-# In[1]:import numpy as np
+# In[1]:
 
 
 # ##### Import the necessary packages
@@ -12,6 +12,7 @@
 
 
 import numpy as np #numerical computation
+import streamlit as st
 import pandas as pd #data wrangling
 import matplotlib.pyplot as plt #plotting package
 
