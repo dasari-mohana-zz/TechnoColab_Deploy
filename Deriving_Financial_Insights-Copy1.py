@@ -15,6 +15,7 @@ import numpy as np #numerical computation
 import streamlit as st
 import pandas as pd #data wrangling
 import matplotlib.pyplot as plt #plotting package
+import xlrd
 
 #Next line helps with rendering plots
 import matplotlib as mpl #add'l plotting functionality
