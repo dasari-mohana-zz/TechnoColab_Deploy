@@ -15,6 +15,10 @@ import numpy as np #numerical computation
 import streamlit as st
 import pandas as pd #data wrangling
 import matplotlib.pyplot as plt #plotting package
+import pickle
+from IPython import get_ipython
+
+get_ipython().run_line_magic('matplotlib', 'inline')
 
 #Next line helps with rendering plots
 import matplotlib as mpl #add'l plotting functionality
