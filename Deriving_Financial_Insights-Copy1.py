@@ -17,6 +17,9 @@ import pandas as pd #data wrangling
 import matplotlib.pyplot as plt #plotting package
 import pickle
 
+pip install xlrd
+import xlrd
+
 #Next line helps with rendering plots
 import matplotlib as mpl #add'l plotting functionality
 mpl.rcParams['figure.dpi'] = 400 #high res figures
