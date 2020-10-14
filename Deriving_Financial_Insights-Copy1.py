@@ -16,8 +16,6 @@ import streamlit as st
 import pandas as pd #data wrangling
 import matplotlib.pyplot as plt #plotting package
 import pickle
-
-pip install xlrd
 import xlrd
 
 #Next line helps with rendering plots
