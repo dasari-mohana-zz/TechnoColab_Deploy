@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 19 21:54:33 2020
-
-@author: MOHANA D
-"""
-
 import numpy as np
 import pandas as pd
 from flask import Flask, request, render_template
