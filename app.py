@@ -12,7 +12,7 @@ def home():
     return render_template('index.html')
 
 
-@app.route('/predict', methods=['POST'])
+@app.route('/predict', methods=['POST','GET'])
 def predict():
     input_features = [float(x) for x in request.form.values()]
     features_value = [np.array(input_features)]
@@ -24,4 +24,4 @@ def predict():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
