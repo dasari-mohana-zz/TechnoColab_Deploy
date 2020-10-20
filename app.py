@@ -4,7 +4,7 @@ from flask import Flask, request, render_template
 import pickle
 
 app = Flask(__name__)
-model = pickle.load(open('loan.pkl', 'rb'))
+model = pickle.load(open('loan.pkl', 'wb'))
 
 
 @app.route('/')
