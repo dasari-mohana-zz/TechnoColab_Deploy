@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: serif, sans-serif;
+    background-image: url(credit.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.container h3 {
+    text-align: center;
+    margin: -5%;
+
+}
